@@ -10,9 +10,9 @@ javac Temperature.java
 
 To execute the programs, no user input is needed. Simply run:
 
-java Problem1
+java MinotaurParty
 
-java Problem2
+java Temperature
 
 # Problem 1
 
