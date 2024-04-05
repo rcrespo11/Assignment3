@@ -38,7 +38,7 @@ class ConcurrentLinkedList {
 
 public class MinotaurParty {
     private static final int THREAD_COUNT = 4;
-    private static final int NUM_GUESTS = 500_000;
+    private static final int NUM_GUESTS = 500000;
 
     private static final int TASK_ADD_PRESENT = 0;
     private static final int TASK_WRITE_CARD = 1;
